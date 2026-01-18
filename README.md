@@ -1,7 +1,9 @@
 # 食品安全与营养相互作用分析助手
 分析同餐/同杯/同锅的食物、调料、补剂或药物的关键成分、可能不适、食品安全风险，并给出风险等级与建议。
 
-> 体验网址：https://food.xfxuezhang.cn/
+> - 体验网址：https://food.xfxuezhang.cn/
+> 
+> - 视频演示：https://v.douyin.com/u7c01UPKA6A/
 
 <img width="1575" height="899" alt="image" src="https://github.com/user-attachments/assets/74cc2152-919b-4147-84f9-83a29aa42df5" />
 
